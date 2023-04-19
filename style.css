@@ -1,0 +1,267 @@
+*{
+    margin: 0;
+    font-family: 'Exo 2', sans-serif;
+}
+.cont{
+    width: 1980px;
+    margin-left: auto;
+    margin-right: auto;
+background-color: rgb(10, 10, 10);
+}
+.start{
+  height: 108px;
+    background-color: whitesmoke;
+}
+
+.tehnocampus1 {
+    font-family: 'Exo 2', sans-serif;
+}
+.blue{
+    color: blue;
+
+}
+.yellow{
+    color: rgb(255, 200, 0);
+    font-weight: bold;
+}
+.text{
+    text-decoration: none;
+    font-size: 75;
+    margin-left: 125px ;
+}
+.fon{
+    height: 970px;
+    background-color: rgb(36, 36, 36);
+    border-radius: 0px 0px 75px 75px;
+}
+.seredin{
+    height: 2184px;
+}
+.text1{
+    color: white;
+    font-size: 37;
+    margin-left: 730px;
+    margin-top: 157px;
+}
+.text2{
+    color: white;
+    font-size: 37;
+    margin-left: 49px;
+    
+    
+}
+.lamp{
+    margin-top: 163px;
+    display: flex;
+    align-items: center;
+    margin-right: 75px;
+    
+}
+.photo{
+    float: right;
+    margin-right: 132px;
+}
+.text3{
+    color: white;
+    font-size: 55px;
+    margin-top: 564px;
+   margin-left: 750px;
+}
+.galochki{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 300px;
+    align-content: center;
+    column-gap: 555px;
+    
+
+}
+.link{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.grey{
+    background-color: rgb(36, 36, 36);
+    height: 1090px;
+border-radius: 75px 75px 75px 75px;
+background-image: url(img/);
+
+}
+.crug1{
+    display: flex;
+    justify-content: space-around;
+padding-top: 300px;
+}
+.ball1{
+    background-color: white;
+    border-radius: 50%;
+    width:526px;
+    height: 521px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.ball2{
+    background-color: white;
+    border-radius: 50%;
+    width:526px;
+    height: 521px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.ball3{
+    background-color: white;
+    border-radius: 50%;
+    width:526px;
+    height: 521px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.text4{
+    color: rgb(226,181,94);
+    font-size: 50px;
+}
+.blue1{
+    color: blue;
+    font-size: 40px;
+}
+.raspis{
+    height: 4332px;
+}
+.text5{
+    font-size: 75px;
+    color: white;
+    margin-top: 150px;
+    margin-left: 775px;
+}
+.stolbi{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 650;
+    align-content: center;
+    column-gap: 55px;
+    row-gap: 30px;
+}
+.text6{
+    font-size: 25px;
+    text-align: center;
+}
+
+.squared {
+    width: 400px;
+    outline: 2px rgb(226, 181, 94) solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+} 
+.text7{
+    font-size: 75px;
+    color: white;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 855px;
+}
+.addres{
+    width: 555px;
+    height: 740px;
+    outline: 2px rgb(226, 181, 94) solid;
+    border-radius: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+
+
+}
+.zagolow{
+    color: white;
+    font-size: 35px;
+}
+.text0{
+    font-size: 15px;
+    color: white;
+}
+.yellow3{
+    font-size: 25px;
+    color: rgb(226,181,94);
+}
+.minicont{
+    display: flex;
+    justify-content: center;
+    align-content: flex-start;
+   flex-direction: row;
+   flex-wrap: wrap;
+   gap: 30px;
+}
+.down{
+    padding-bottom: 600px;
+}
+.grey2{
+    min-height: 1100px;
+    background-color: rgb(36, 36, 36);
+    border-radius: 35px;
+}
+.text8{
+    font-size: 75px;
+    margin-left:805px;
+    color: white;
+    padding-top: 160px;
+}
+.galerea{
+margin-top: 200px;
+margin-left: 45px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+overflow-x: scroll;
+gap: 30px;
+}
+
+.galerea>img {
+    flex-shrink: 0;
+}
+
+.galerea::-webkit-scrollbar {
+    background: transparent;
+}
+
+.galerea:hover::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+.galerea:hover::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(141, 141, 141, 0.3); 
+    border-radius: 10px;
+}
+ 
+.galerea:hover::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(161, 161, 161, 0.5); 
+}
+.end{
+min-height: 285px;
+}
+.text9{
+    color: white;
+    font-size: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
